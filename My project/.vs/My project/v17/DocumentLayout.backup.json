@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\Quyen_test\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\github\\quyen_test\\my project\\assets\\scripts\\pointscalehole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pointscalehole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Github\\Quyen_test\\My project\\assets\\scripts\\objecttobeeaten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objecttobeeaten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Github\\Quyen_test\\My project\\assets\\scripts\\holescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\holescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\Github\\Quyen_test\\My project\\assets\\scripts\\boxscipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\boxscipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pointScaleHole.cs",
+              "DocumentMoniker": "D:\\Github\\Quyen_test\\My project\\Assets\\Scripts\\pointScaleHole.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\pointScaleHole.cs",
+              "ToolTip": "D:\\Github\\Quyen_test\\My project\\Assets\\Scripts\\pointScaleHole.cs",
+              "RelativeToolTip": "Assets\\Scripts\\pointScaleHole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:51:59.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectToBeEaten.cs",
+              "DocumentMoniker": "D:\\Github\\Quyen_test\\My project\\Assets\\Scripts\\ObjectToBeEaten.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectToBeEaten.cs",
+              "ToolTip": "D:\\Github\\Quyen_test\\My project\\Assets\\Scripts\\ObjectToBeEaten.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectToBeEaten.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T09:40:06.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BoxScipt.cs",
+              "DocumentMoniker": "D:\\Github\\Quyen_test\\My project\\Assets\\Scripts\\BoxScipt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BoxScipt.cs",
+              "ToolTip": "D:\\Github\\Quyen_test\\My project\\Assets\\Scripts\\BoxScipt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BoxScipt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:22:13.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HoleScript.cs",
+              "DocumentMoniker": "D:\\Github\\Quyen_test\\My project\\Assets\\Scripts\\HoleScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HoleScript.cs",
+              "ToolTip": "D:\\Github\\Quyen_test\\My project\\Assets\\Scripts\\HoleScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HoleScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:17:23.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
